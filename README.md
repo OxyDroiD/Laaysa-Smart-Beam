@@ -12,4 +12,4 @@
   2 - Üst menüdeki "<i>Bilgi</i>" ekranından veya "<i>Ayarlar/Güvenlik ve Güncelleme</i>" yolunu takip ederek "<i>Güncelle</i>" butonuna basınız.<br>
   3 - Yalnızca bu sayfadan indirdiğiniz, "<i>.bin</i>" uzantılı ve en güncel versiyonu seçiniz.<br>
   4 - "<i>Güncelle</i>" butonuna basarak akıllı lambanızın yeniden başlatılmasını bekleyiniz.<br>
-  <h2 style="color: red;">KESİNLİKLE YANLIŞ DOSYA SEÇMEYİNİZ VE GÜNCELLEME YAPILIRKEN, GÜNCELLEME EKRANINDAN ÇIKMAYINIZ!</h2><br>
+  <h4 style="color: red;">Güncelleme yapılacak versiyonu en güncel versiyon olarak belirleyiniz ve versiyon numarasına göre doğru dosyayı indirdiğinizden emin olunuz!</h2><br>
