@@ -1,15 +1,15 @@
-# Laaysa-Smart-Lightify
-Laaysa Smart Lightify Akıllı Lamba Yazılım Güncellemeleri
 
-Güncelleme nasıl indirilir?
-  1.a - Bilgisayardan indirecekseniz sayfanın sağında bulunan "Relases" sekmesinde yayınlanmış en güncel versiyonu görebilirsiniz.
-  1.b - Telefondan indirecekseniz sayfayı biraz aşağı kaydırdığınızda "Relases" sekmesinde yayınlanmış en güncel versiyonu görebilirsiniz.
-  2 - en güncel sürümün üzerine tıkladıktan sonra açılan sayfadan "Laaysa_Lightify_vx.x.x.bin" isimli dosyaya tıklayın. indirme başlayacaktır.
+<h1>Laaysa Smart Lightify Akıllı Lamba Yazılım Güncellemeleri</h1>
 
-Güncelleme nasıl yapılır?
-  1 - Güncelleme yapabilmek için Laaysa Lightify Akıllı Lambanızı bir wifi ağına bağlayın
-    1.a - Wifi bağlamayacaksanız, akıllı lambanızın oluşturduğu "Laaysa Smart" isimli wifi ağına bağlanın
-  2 - Üst menüdeki "Bilgi" ekranından veya "Ayarlar/Güvenlik ve Güncelleme" yolunu takip ederek "Güncelle" butonuna basınız.
-  3 - Yalnızca bu sayfadan indirdiğiniz, ".bin" uzantılı ve en güncel versiyonu seçiniz.
-  4 - "Güncelle" butonuna basarak akıllı lambanızın yeniden başlatılmasını bekleyiniz.
-  KESİNLİKLE YANLIŞ DOSYA SEÇMEYİNİZ VE GÜNCELLEME YAPILIRKEN, GÜNCELLEME EKRANINDAN ÇIKMAYINIZ.
+<h3>Güncelleme nasıl indirilir?</h3>
+  1.a - Bilgisayardan indirecekseniz sayfanın sağında bulunan "<i>Relases</i>" sekmesinde yayınlanmış en güncel versiyonu görebilirsiniz.<br>
+  1.b - Telefondan indirecekseniz sayfayı biraz aşağı kaydırdığınızda "<i>Relases</i>" sekmesinde yayınlanmış en güncel versiyonu görebilirsiniz.<br>
+  2 - En güncel sürümün üzerine tıkladıktan sonra açılan sayfadan "<i>Laaysa_Lightify_vx.x.x.bin</i>" isimli dosyaya tıklayın. indirme başlayacaktır.<br>
+<br>
+<h3> Güncelleme nasıl yapılır?</h3>
+  1.a - Güncelleme yapabilmek için <b>Laaysa Lightify Akıllı Lamba</b>nızı bir WiFi ağına bağlayın<br>
+  1.b - Wifi bağlamayacaksanız, akıllı lambanızın oluşturduğu "Laaysa Smart" isimli wifi ağına bağlanın<br>
+  2 - Üst menüdeki "<i>Bilgi</i>" ekranından veya "<i>Ayarlar/Güvenlik ve Güncelleme</i>" yolunu takip ederek "<i>Güncelle</i>" butonuna basınız.<br>
+  3 - Yalnızca bu sayfadan indirdiğiniz, "<i>.bin</i>" uzantılı ve en güncel versiyonu seçiniz.<br>
+  4 - "<i>Güncelle</i>" butonuna basarak akıllı lambanızın yeniden başlatılmasını bekleyiniz.<br>
+  <h2 style="color: red;">KESİNLİKLE YANLIŞ DOSYA SEÇMEYİNİZ VE GÜNCELLEME YAPILIRKEN, GÜNCELLEME EKRANINDAN ÇIKMAYINIZ!</h2><br>
