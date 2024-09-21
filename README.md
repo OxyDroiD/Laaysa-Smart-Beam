@@ -12,4 +12,5 @@
   2 - Üst menüdeki "<i>Bilgi</i>" ekranından veya "<i>Ayarlar/Güvenlik ve Güncelleme</i>" yolunu takip ederek "<i>Güncelle</i>" butonuna basınız.<br>
   3 - Yalnızca bu sayfadan indirdiğiniz, "<i>.bin</i>" uzantılı ve en güncel versiyonu seçiniz.<br>
   4 - "<i>Güncelle</i>" butonuna basınız.<br>
-<h4>Güncelleme yapılacak versiyonu en güncel versiyon olarak belirleyiniz ve versiyon numarasına göre doğru dosyayı indirdiğinizden emin olunuz. <br>Güncelleme başlatıldıktan sonra güncelleme tamamlanana kadar güncelleme ekranından çıkış yapmayınız ve cihazı kapatmayınız, fişini çekmeyiniz.</h4>
+<h4>! Güncelleme yapılacak versiyonu en güncel versiyon olarak belirleyiniz ve versiyon numarasına göre doğru dosyayı indirdiğinizden emin olunuz.<br><br>
+  !! Güncelleme başlatıldıktan sonra güncelleme tamamlanana kadar güncelleme ekranından çıkış yapmayınız ve cihazı kapatmayınız, fişini çekmeyiniz.</h4>
