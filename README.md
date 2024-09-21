@@ -11,5 +11,5 @@
   1.b - Wifi bağlamayacaksanız, akıllı lambanızın oluşturduğu "Laaysa Smart" isimli wifi ağına bağlanın<br>
   2 - Üst menüdeki "<i>Bilgi</i>" ekranından veya "<i>Ayarlar/Güvenlik ve Güncelleme</i>" yolunu takip ederek "<i>Güncelle</i>" butonuna basınız.<br>
   3 - Yalnızca bu sayfadan indirdiğiniz, "<i>.bin</i>" uzantılı ve en güncel versiyonu seçiniz.<br>
-  4 - "<i>Güncelle</i>" butonuna basarak akıllı lambanızın yeniden başlatılmasını bekleyiniz.<br>
-  <h4 style="color: red;">Güncelleme yapılacak versiyonu en güncel versiyon olarak belirleyiniz ve versiyon numarasına göre doğru dosyayı indirdiğinizden emin olunuz!</h2><br>
+  4 - "<i>Güncelle</i>" butonuna basınız.<br>
+<h4>Güncelleme yapılacak versiyonu en güncel versiyon olarak belirleyiniz ve versiyon numarasına göre doğru dosyayı indirdiğinizden emin olunuz. <br>Güncelleme başlatıldıktan sonra güncelleme tamamlanana kadar güncelleme ekranından çıkış yapmayınız ve cihazı kapatmayınız, fişini çekmeyiniz.</h4>
